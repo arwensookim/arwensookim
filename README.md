@@ -1,7 +1,11 @@
 ### Hi there 👋 I am Arwen Kim 😁
 
 [![image](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white$link=https://www.linkedin.com/in/arwen-kim-85a01b221)](https://www.linkedin.com/in/arwen-kim-85a01b221)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](arwensoojinkim@gmail.com)
+![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arwensookim@gmail.com)
+
+<a href="https://angel.co/u/arwen-kim" title="angellist">
+    <img alt src="assets/img/icons8-angellist-100.png" style="max-width: 30%;">
+</a>
 
 
 ### About Me 😃
