@@ -15,7 +15,51 @@ I am a software engineer with passionate in problem solving and learning new lan
 
 ### I recently working with ...
 
+<a href="https://reactjs.org" title="React" rel="nofollow">
+    <img alt src="assets/img/icons8-react-native-48.png" style="max-width: 100%;">
+</a>
 
+<a href="https://www.javascript.com/" title="JavaScript" rel="nofollow">
+    <img alt src="assets/img/icons8-javascript-48.png" style="max-width: 100%;">
+</a>
+
+<a href="https://www.postgresql.org/docs/" title="PostgresSQL" rel="nofollow">
+    <img alt src="assets/img/icons8-postgresql-48.png" style="max-width: 100%;">
+</a>
+
+<a href="https://rubyonrails.org/" title="RubyOnRails" rel="nofollow">
+    <img alt src="assets/img/icons8-rubyonrails.png" style="max-width: 11%;">
+</a>
+
+<a href="https://www.mongodb.com/" title="MongoDB" rel="nofollow">
+    <img alt src="assets/img/icons8-mongodb-48.png" style="max-width: 100%;">
+</a>
+
+
+
+### Other languages that I worked with: 
+
+<a href="https://ruby-doc.org/" title="Ruby" rel="nofollow">
+    <img alt src="assets/img/icons8-ruby-programming-language-48.png" style="max-width: 100%;">
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" title="html5" rel="nofollow">
+    <img alt src="assets/img/icons8-html-5-48.png" style="max-width: 100%;">
+</a>
+
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="css3" rel="nofollow">
+    <img alt src="assets/img/icons8-css3-48.png" style="max-width: 100%;">
+</a>
+
+
+<a href="https://sass-lang.com/" title="scss" rel="nofollow">
+    <img alt src="assets/img/icons8-sass-48.png" style="max-width: 100%;">
+</a>
+
+
+
+### Github stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arwensookim&layout=compact&theme=buefy&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
