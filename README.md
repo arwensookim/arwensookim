@@ -28,7 +28,7 @@ I am a software engineer with passionate in problem solving and learning new lan
 </a>
 
 <a href="https://rubyonrails.org/" title="RubyOnRails" rel="nofollow">
-    <img alt src="assets/img/icons8-rubyonrails.png" style="max-width: 11%;">
+    <img alt src="assets/img/icons8-rubyonrails.png" style="max-width: 10%;">
 </a>
 
 <a href="https://www.mongodb.com/" title="MongoDB" rel="nofollow">
