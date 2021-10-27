@@ -8,7 +8,7 @@
 I am a software engineer with passionate in problem solving and learning new languages. 
 
 - I am Bilingual 🇰🇷 🇺🇸
-- I like listenig music 🎶
+- I like listening music 🎶
 - I love activities 🏂 🏌🏻‍♀️ 🪂
 - I am currently learning more deeply on frontend 🎖
 
