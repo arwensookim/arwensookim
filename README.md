@@ -5,8 +5,8 @@
 [![image](https://camo.githubusercontent.com/fdd627a967b9943dcc0811b47c62b1cb6578da40fe3d164514257ee57f0563d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e67656c4c6973742d6236623962393f7374796c653d666f722d7468652d6261646765266c6f676f3d416e67656c4c697374266c6f676f436f6c6f723d626c61636b)](https://angel.co/u/arwen-kim)
 <!-- [![Generic badge](https://img.shields.io/badge/AngelList-profile-blue.svg)](https://angel.co/u/arwen-kim) -->
 
-### About Me 😃
-#### I am a software engineer with passionate in problem solving and learning new languages. 
+## About Me 😃
+### I am a software engineer with passionate in problem solving and learning new languages. 
 
 - I am Bilingual 🇰🇷 🇺🇸
 - I like listening music 🎶
@@ -14,7 +14,7 @@
 - I am currently learning more deeply on frontend 🎖
 
 
-### I recently working with ...
+## I recently working with ...
 
 <a href="https://reactjs.org" title="React" rel="nofollow">
     <img alt src="assets/img/icons8-react-native-48.png" style="max-width: 100%;">
@@ -38,7 +38,7 @@
 
 
 
-### Other languages that I worked with: 
+## Other languages that I worked with: 
 
 <a href="https://ruby-doc.org/" title="Ruby" rel="nofollow">
     <img alt src="assets/img/icons8-ruby-programming-language-48.png" style="max-width: 100%;">
@@ -60,7 +60,7 @@
 
 
 
-### Github stats:
+## Github stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arwensookim&layout=compact&theme=buefy&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
