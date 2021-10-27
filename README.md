@@ -1,4 +1,5 @@
-### Hi there 👋 I am Arwen Kim 😁
+### Hi there 👋   I am Arwen Kim 😁
+Feel free to reach out to me with below methods 👇🏻 👇🏻
 
 [![image](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white$link=https://www.linkedin.com/in/arwen-kim-85a01b221)](https://www.linkedin.com/in/arwen-kim-85a01b221)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arwensoojinkim@gmail.com)](mailto:arwensoojinKim@gmail.com)
