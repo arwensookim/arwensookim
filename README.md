@@ -6,7 +6,7 @@
 <!-- [![Generic badge](https://img.shields.io/badge/AngelList-profile-blue.svg)](https://angel.co/u/arwen-kim) -->
 
 ### About Me 😃
-I am a software engineer with passionate in problem solving and learning new languages. 
+#### I am a software engineer with passionate in problem solving and learning new languages. 
 
 - I am Bilingual 🇰🇷 🇺🇸
 - I like listening music 🎶
