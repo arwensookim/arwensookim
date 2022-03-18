@@ -1,9 +1,9 @@
 ### Hi there 👋   I am Arwen Kim 😁
 Feel free to reach out to me 👇🏻 👇🏻
 
-[![image](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white$link=https://www.linkedin.com/in/arwen-kim-85a01b221)](https://www.linkedin.com/in/arwen-kim-85a01b221 {:target="\_blank"})
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arwensoojinkim@gmail.com)](mailto:arwensoojinKim@gmail.com){:target="\_blank"}
-[![image](https://camo.githubusercontent.com/fdd627a967b9943dcc0811b47c62b1cb6578da40fe3d164514257ee57f0563d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e67656c4c6973742d6236623962393f7374796c653d666f722d7468652d6261646765266c6f676f3d416e67656c4c697374266c6f676f436f6c6f723d626c61636b)](https://angel.co/u/arwen-kim){:target="\_blank"}
+[![image](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white$link=https://www.linkedin.com/in/arwen-kim-85a01b221)](https://www.linkedin.com/in/arwen-kim-85a01b221)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arwensoojinkim@gmail.com)](mailto:arwensoojinKim@gmail.com)
+[![image](https://camo.githubusercontent.com/fdd627a967b9943dcc0811b47c62b1cb6578da40fe3d164514257ee57f0563d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e67656c4c6973742d6236623962393f7374796c653d666f722d7468652d6261646765266c6f676f3d416e67656c4c697374266c6f676f436f6c6f723d626c61636b)](https://angel.co/u/arwen-kim)
 <!-- [![Generic badge](https://img.shields.io/badge/AngelList-profile-blue.svg)](https://angel.co/u/arwen-kim) -->
 
 ## About Me 😃
